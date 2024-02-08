@@ -11,7 +11,7 @@
 ## Introduction <a name="introduction"></a>
 A full stack website for my taxi translator mobile app. This website provides the value provided by the mobile app to the potential consumer as well as links to both the android and apple store.
 
-<a href="https://taxi-translator.com">Taxi Translator Website Link</a>
+LIVE at: <a href="https://taxi-translator.com">taxi-translator.com</a>
 
 ## Motivation <a name="motivation"></a>
 Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising material that will link the website where the potential consumer can read more about the app.
