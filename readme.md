@@ -14,7 +14,7 @@ A full stack website for my taxi translator mobile app. This website provides th
 LIVE at: <a href="https://taxi-translator.com">taxi-translator.com</a>
 
 ## Motivation <a name="motivation"></a>
-Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising material that will link the website where the potential consumer can read more about the app.
+Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising materials that users can scan and will direct them to the website where can read more and select which app store to download from.
 
 ## Technology Used <a name="technologyUsed"></a>
 <table>
