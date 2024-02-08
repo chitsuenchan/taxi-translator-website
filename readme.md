@@ -7,13 +7,11 @@
 - [Technology Used](#technologyUsed)
 - [Build Status](#buildStatus)
 - [Features](#features)
-- [Installation](#installation)
-- [Execution](#execution)
 
 ## Introduction <a name="introduction"></a>
 A full stack website for my taxi translator mobile app. This website provides the value provided by the mobile app to the potential consumer as well as links to both the android and apple store.
 
-https://chi-fact-forum.netlify.app/
+<a href="https://taxi-translator.com">Taxi Translator Website Link</a>
 
 ## Motivation <a name="motivation"></a>
 Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising material that will link the website where the potential consumer can read more about the app.
@@ -67,8 +65,8 @@ Project is completed.
 <img src="readme_screenshots/example_3.jpg" height="300">
 <img src="readme_screenshots/example_4.jpg" height="300">
 
-* Video will start playing automatically when the user scrolls down
-* Video will be on a continous loop
+* Video will start playing automatically when the user scrolls down and is on a continous loop
+* Video demo is created using final cut pro with an iPhone frame png as one of the layers in the software
 * Video is of format WebM so it doesn't take so much storage space and makes the website faster to download
 
 ### Information about the app
@@ -79,40 +77,8 @@ Project is completed.
 
 ### Resizable window
 
-<img src="public/example-form1.jpg" height="300"><img src="public/example-form2.jpg" height="300"><img src="public/example-form3.jpg" height="300">
+<img src="readme_screenshots/example_8.jpg" height="300"><img src="public/example-form2.jpg" height="300"><img src="public/example-form3.jpg" height="300">
 
 * The web is transformed depending on the screensize it is being viewed on
-
-### Disputed
-
-<img src="public/example-disputed.jpg" height="300">
-
-* If a fact has more red down votes than thumbs up plus mindblown it is tagged with a "Disputed" tag
-
-### Source
-
-<img src="public/example-source.jpg" height="100">
-
-* User can click on "(Source)" which will open a new tab into the source of the fact
-
-# Installation <a name="installation"></a>
-In the project directory, you can run:
-
-```
-npm install
-```
-
-# Execution <a name="execution"></a>
-In the project directory, you can run:
-
-```
-npm run start
-```
-
-This runs the app in the development mode.\
-Open [http://localhost:3000](http://localhost:3000) to view it in your browser.
-
-The page will reload when you make changes.\
-You may also see any lint errors in the console.
 
 Alternatively, you may play around with the live web version - https://chi-fact-forum.netlify.app/ 
