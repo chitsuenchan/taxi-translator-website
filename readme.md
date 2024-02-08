@@ -1,5 +1,5 @@
 # Full Stack Fact REACT Application
-<img src="public/example-landingPage.jpg" height="400">
+<img src="readme_screenshots/example_1.jpg" height="400">
 
 **Table of Contents**
 - [Introduction](#introduction)
