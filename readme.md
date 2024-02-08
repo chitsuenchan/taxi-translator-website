@@ -1,5 +1,5 @@
 # Taxi Translator Website
-<img src="readme_screenshots/example_1.jpg" height="400">
+<img src="readme_screenshots/example_1.jpg" height="600">
 
 **Table of Contents**
 - [Introduction](#introduction)
@@ -55,15 +55,15 @@ Project is completed.
 
 ### App Store Links
 
-<img src="readme_screenshots/example_6.jpg" height="300">
+<img src="readme_screenshots/example_6.jpg" height="500">
 
 * User can click either the Android or iOS badge and it will redirect them to those respective app stores to download the Taxi Translator app
 
 ### Continually playing video demo
 
-<img src="readme_screenshots/example_2.jpg" height="300">
-<img src="readme_screenshots/example_3.jpg" height="300">
-<img src="readme_screenshots/example_4.jpg" height="300">
+<img src="readme_screenshots/example_2.jpg" height="500">
+<img src="readme_screenshots/example_3.jpg" height="500">
+<img src="readme_screenshots/example_4.jpg" height="500">
 
 * Video will start playing automatically when the user scrolls down and is on a continous loop
 * Video demo is created using final cut pro with an iPhone frame png as one of the layers in the software
@@ -71,14 +71,12 @@ Project is completed.
 
 ### Information about the app
 
-<img src="readme_screenshots/example_5.jpg" height="150">
+<img src="readme_screenshots/example_5.jpg" height="500">
 
 * User can scroll down the website to read the benefits of the app
 
 ### Resizable window
 
-<img src="readme_screenshots/example_8.jpg" height="300"><img src="public/example-form2.jpg" height="300"><img src="public/example-form3.jpg" height="300">
+<img src="readme_screenshots/example_8.jpg" height="500">
 
 * The web is transformed depending on the screensize it is being viewed on
-
-Alternatively, you may play around with the live web version - https://chi-fact-forum.netlify.app/ 
