@@ -1,4 +1,7 @@
 # Taxi Translator Website
+
+LIVE at: <a href="https://taxi-translator.com">taxi-translator.com</a>
+
 <img src="readme_screenshots/example_1.jpg" height="600">
 
 **Table of Contents**
@@ -10,8 +13,6 @@
 
 ## Introduction <a name="introduction"></a>
 A full stack website for my taxi translator mobile app. This website provides the value provided by the mobile app to the potential consumer as well as links to both the android and apple store.
-
-LIVE at: <a href="https://taxi-translator.com">taxi-translator.com</a>
 
 ## Motivation <a name="motivation"></a>
 Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising materials that users can scan and will direct them to the website where can read more and select which app store to download from.
