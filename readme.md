@@ -1,5 +1,5 @@
-# Full Stack Fact REACT Application
-<img src="public/example-landingPage.jpg" height="400">
+# Taxi Translator Website
+<img src="readme_screenshots/example_1.jpg" height="400">
 
 **Table of Contents**
 - [Introduction](#introduction)
@@ -11,12 +11,12 @@
 - [Execution](#execution)
 
 ## Introduction <a name="introduction"></a>
-A full stack application where you can share facts across various categories and rank them.
+A full stack website for my taxi translator mobile app. This website provides the value provided by the mobile app to the potential consumer as well as links to both the android and apple store.
 
 https://chi-fact-forum.netlify.app/
 
 ## Motivation <a name="motivation"></a>
-This is a personal learning project aimed to further knowledge of front-end development by using modern frameworks such as REACT and to learn how to put together a back-end database with APIs.
+Felt the need to create a website for the taxi translator app. This way I could also have one QR code in advertising material that will link the website where the potential consumer can read more about the app.
 
 ## Technology Used <a name="technologyUsed"></a>
 <table>
@@ -26,25 +26,20 @@ This is a personal learning project aimed to further knowledge of front-end deve
       <td>JavaScript, HTML and CSS</td>
     </tr>
     <tr>
-      <td>Frameworks</td>
-      <td>REACT</td>
-    </tr>
-    <tr>
       <td>Database</td>
-      <td>Supabase (vendor solution for back-end database)</td>
+      <td>Firebase</td>
     </tr>
     <tr>
       <td>Hosting</td>
-      <td>Netlify (vendor solution for online web app hosting)</td>
+      <td>Squarespace and Firebase</td>
     </tr>
     <tr>
       <td>Notable Technology Utilized</td>
       <td>
           <ul>
               <li>Responsive web layout</li>
-              <li>POST API to share fact</li>
-              <li>GET API and SQL to retrieve forum facts</li>
-              <li>Layout desinging, use states and onclicklisteners</li>     
+              <li>Firebase posting data</li>
+              <li>webm video continually playing</li>     
           </ul>
       </td>
     </tr>
@@ -55,34 +50,32 @@ This is a personal learning project aimed to further knowledge of front-end deve
 Project is completed.
 
 ## Features <a name="features"></a>
-- Share a fact
-- Drill down menu
-- Vote on buttons
-- Source
-- Disputed
-- Resizable window
+- App store links
+- Continually playing video demo
+- Information about the app
+- Resizable for mobile view
 
-### Share a fact
+### App Store Links
 
-<img src="public/example-shareAFact.jpg" height="300">
+<img src="readme_screenshots/example_6.jpg" height="300">
 
-* User can input a random text fact with a source and a category from the dropdown
-* There is a 200 character limit which state changes as the user types
-* Upon clicking "Post" the form is disabled before closing once successfully uploaded (used POST API)
+* User can click either the Android or iOS badge and it will redirect them to those respective app stores to download the Taxi Translator app
 
-### Drill down menu
+### Continually playing video demo
 
-<img src="public/example-drillDownMenu.jpg" height="300">
+<img src="readme_screenshots/example_2.jpg" height="300">
+<img src="readme_screenshots/example_3.jpg" height="300">
+<img src="readme_screenshots/example_4.jpg" height="300">
 
-* User can filter all the facts by clicking on different categories on the menu to the left
-* When a new category is selected the content view is re-rendered with the results of the filtered SQL query
+* Video will start playing automatically when the user scrolls down
+* Video will be on a continous loop
+* Video is of format WebM so it doesn't take so much storage space and makes the website faster to download
 
-### Vote on buttons
+### Information about the app
 
-<img src="public/example-voteButtons.jpg" height="150">
+<img src="readme_screenshots/example_5.jpg" height="150">
 
-* User can vote on a fact by selecting the different icons
-* The fact is ordered by the number of thumbs up plus mindblown facts in descending order
+* User can scroll down the website to read the benefits of the app
 
 ### Resizable window
 
