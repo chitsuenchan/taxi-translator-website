@@ -61,7 +61,6 @@ Project is completed.
 
 ### Continually playing video demo
 
-<img src="readme_screenshots/example_2.jpg" height="500">
 <img src="readme_screenshots/example_3.jpg" height="500">
 <img src="readme_screenshots/example_4.jpg" height="500">
 
