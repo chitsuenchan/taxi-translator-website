@@ -1,6 +1,6 @@
 # Taxi Translator Website
 
-<img src="readme_screenshots/example_1.jpg" height="400">
+<img src="readme_screenshots/example_1.jpg" height="500">
 
 **Table of Contents**
 - [Introduction](#introduction)
