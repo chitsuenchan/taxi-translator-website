@@ -72,7 +72,7 @@ Project is completed.
 
 <img src="readme_screenshots/example_5.jpg" height="500">
 
-* User can scroll down the website to read the benefits of the app
+* User can scroll down the website where iPhone will pop out and they can read the benefits of the app
 
 ### Resizable window
 
